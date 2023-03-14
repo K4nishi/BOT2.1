@@ -23,6 +23,9 @@ client.on("message", async (msg) => {
   }
 });
 // fim de teste função
+//teste
+//teste
+//teste
 
 // começo comandos do bot
 client.on("message", async (msg) => {
