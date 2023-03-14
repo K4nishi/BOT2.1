@@ -37,7 +37,7 @@ client.on("message", async (msg) => {
       await msg.reply("Bot ta funcionando linda :)");
       await msg.react("✅");
       break;
-
+    //davi teste
     //figurinha
     case "!fig":
       await fig(msg);
