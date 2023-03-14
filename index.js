@@ -26,6 +26,7 @@ client.on("message", async (msg) => {
 //teste
 //teste
 //teste
+//teste
 
 // começo comandos do bot
 client.on("message", async (msg) => {
