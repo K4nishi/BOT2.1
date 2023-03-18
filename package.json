@@ -3,5 +3,8 @@
     "qrcode-terminal": "^0.12.0",
     "whatsapp-web.js": "^1.19.4"
   },
+  "scripts":{
+    "start": "node index"
+  }
   "type": "module"
 }
